@@ -298,6 +298,8 @@
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
     <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_navigation">Navigation</string>
+    <string name="thermal_video">Video</string>
 
     <!-- Stylus pen -->
     <string name="stylus_title">Stylus Pen</string>
